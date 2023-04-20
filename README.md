@@ -1,19 +1,20 @@
 ### Hi there 👋
 
-<!--
-**FrancoRojas1/FrancoRojas1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Connect with me:
 
-Here are some ideas to get you started:
+<p align="left">  
+<a href="https://linkedin.com/in/francorojasparodi" target="blank"><img src="https://img.icons8.com/color/35/000000/linkedin.png"/></a>
+<a href="mailto:franco.rojas0697@gmail.com" target="blank"><img src="https://img.icons8.com/color/35/000000/gmail.png"/></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages and Tools:
+
+<p>
+<img src="https://img.icons8.com/color/35/000000/python.png">
+<img src="https://img.icons8.com/color/35/000000/git.png"/> 
+<img src="https://img.icons8.com/color/35/000000/github.png"/> 
+<img src="https://img.icons8.com/cute-clipart/35/000000/canva.png"/>
+</p>
 
 # Franco Rojas: Programming Portfolio
 
