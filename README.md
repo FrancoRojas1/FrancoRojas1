@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### Connect with me:
+### Links:
 
 <p align="left">  
 <a href="https://linkedin.com/in/francorojasparodi" target="blank"><img src="https://img.icons8.com/color/35/000000/linkedin.png"/></a>
