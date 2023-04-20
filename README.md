@@ -1,4 +1,6 @@
-### Hi there 👋
+### Welcome to my engineering portfolio
+
+## I'm a mechanical engineer with programming knowledge. Specifically in Python language. I have a minor in Machine Design and I'm interested in learning more about AI and Machine Learning. Below you can found my LinkedIn, personal portfolio and a link to my programming portfolio created here in GitHub. Thanks for your interest!
 
 ### Links:
 
