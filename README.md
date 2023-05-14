@@ -35,4 +35,4 @@
 * Uploaded it to Play Store and Apple Store (pending).
 
 ## Download Curriculum: Mechanical Engineer with Programming Expertise
-<a href="https://github.com/FrancoRojas1/FrancoRojas1/blob/0f02086b5d1190ccd4e2604aadc2f29571cda469/Franco%20Rojas%20Resume%20-%20Mechanical%20Engineer.pdf"> <img src='https://github.com/FrancoRojas1/FrancoRojas1/blob/main/images/Download%20Button.png' align="left" height="45" width="200" alt="Download CV" /></a>
+<a href="https://github.com/FrancoRojas1/Python-Programming-Portfolio/files/11471866/Franco.Rojas.Resume.-.Mechanical.Engineer.pdf"> <img src='https://github.com/FrancoRojas1/FrancoRojas1/blob/main/images/Download%20Button.png' align="left" height="45" width="200" alt="Download CV" /></a>
