@@ -6,8 +6,8 @@
 <p align="left">  
 <a href="https://linkedin.com/in/francorojasparodi" target="blank"><img src="https://img.icons8.com/color/35/000000/linkedin.png"/></a>
 <a href="mailto:franco.rojas0697@gmail.com" target="blank"><img src="https://img.icons8.com/color/35/000000/gmail.png"/></a>
-<a href="https://francorojas0697.wixsite.com/portafolio?lang=en" target="blank"><img src="https://github.com/FrancoRojas1/FrancoRojas1/blob/main/Wix%20logo%2035x35.png"/></a>
-<a href="https://francorojas1.github.io/Python-Programming-Portfolio/" target="blank"><img src="https://github.com/FrancoRojas1/FrancoRojas1/blob/main/Logo%20GitHub%2035x35.png"/></a>
+<a href="https://francorojas0697.wixsite.com/portafolio?lang=en" target="blank"><img src="https://github.com/FrancoRojas1/FrancoRojas1/blob/main/images/Logo%20GitHub%2035x35.png"/></a>
+<a href="https://francorojas1.github.io/Python-Programming-Portfolio/" target="blank"><img src="https://github.com/FrancoRojas1/FrancoRojas1/blob/main/images/Wix%20logo%2035x35.png"/></a>
 </p>
 
 ### Languages and Tools:
@@ -37,4 +37,4 @@
 
 ## Download Curriculum: Mechanical Engineer with Programming Expertise
 <h3 align="left">Download:</h3>
-<p><a href=""> <img align="left" src="" height="50" width="210" alt="Download CV" /></a>
+<p><a href="file:///C:/Users/franc/Downloads/Franco%20Rojas%20Resume%20-%20Mechanical%20Engineer.pdf"> <img src='https://github.com/FrancoRojas1/FrancoRojas1/blob/main/images/Download%20Button.png' align="left" height="45" width="200" alt="Download CV" /></a>
