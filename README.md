@@ -1,4 +1,4 @@
-# Welcome to my engineering portfolio!
+<h1 align="center">Hi, Welcome to my engineering portfolio!c</h1>
 I'm a mechanical engineer with programming knowledge, specifically in Python language. I have a minor in Machine Design and I'm interested in learning more about AI and Machine Learning. Below you can find links to LinkedIn, personal portfolio and email. What's more, here you can apreciate my GitHub programming portfolio. Feel free to contact me for any questions. Thanks for your interest!
 
 ### Links:
