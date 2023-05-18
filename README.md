@@ -23,7 +23,7 @@
 
 # Franco Rojas: Programming Portfolio
 
-## Project 1 | Webiste Development: e-Commerce for 3D Printed Sustainable Products
+<h2 style="color: black;"><a href="https://francorojas1.github.io/reprint.github.io/" style="text-decoration: none;">Project 1 | Webiste Development: e-Commerce for 3D Printed Sustainable Products <i class="fas fa-external-link-alt"></i></a></h2>
 
 * Developed a e-commerce website using HTML5 and CSS for the front-end, and Python along with JavaScript for the back-end.
 * Used Flask framework for this project.
