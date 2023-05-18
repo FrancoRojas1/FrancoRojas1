@@ -29,6 +29,8 @@
 * Used Flask framework for this project.
 * Applied Stripe API for payment processing functionality.
 
+<img src="https://github.com/FrancoRojas1/FrancoRojas1/blob/main/images/RePrint%20Home%20Page.png"/> 
+
 ## Project 2 | App Development: Mobile Game for Android & iOS (pending)
 
 * Created a mobile app for gaming with Python.
