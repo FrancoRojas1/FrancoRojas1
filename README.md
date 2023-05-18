@@ -29,10 +29,10 @@
 * Used Flask framework for this project.
 * Applied Stripe API for payment processing functionality.
 
-## Project 2 | App Development: Mobile Game for Android & iOS
+## Project 2 | App Development: Mobile Game for Android & iOS (pending)
 
 * Created a mobile app for gaming with Python.
-* Uploaded it to Play Store and Apple Store (pending).
+* Uploaded it to Play Store and Apple Store.
 
 ## Download Curriculum: Mechanical Engineer with Programming Expertise
 <a href="https://github.com/FrancoRojas1/Python-Programming-Portfolio/files/11471866/Franco.Rojas.Resume.-.Mechanical.Engineer.pdf"> <img src='https://github.com/FrancoRojas1/FrancoRojas1/blob/main/images/Download%20Button.png' align="left" height="45" width="200" alt="Download CV" /></a>
