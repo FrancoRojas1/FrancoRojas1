@@ -29,7 +29,7 @@
 * Used Flask framework for this project.
 * Applied Stripe API for payment processing functionality.
 
-<img src="https://github.com/FrancoRojas1/FrancoRojas1/blob/main/images/RePrint%20Image%20Sample.png" width="787" height="448">
+<img src="https://github.com/FrancoRojas1/FrancoRojas1/blob/main/images/RePrint%20Image%20Sample.png" width="949" height="445">
  
  
 ## Project 2 | App Development: Mobile Game for Android & iOS (pending)
